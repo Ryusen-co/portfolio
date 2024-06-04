@@ -8,9 +8,9 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-df = pd.read_csv('c:/Users/Fyrel/Desktop/FYP/Data/Binning data A262 (1).csv')
-df2 = pd.read_csv('c:/Users/Fyrel/Desktop/FYP/Data/Galaxy within 4500-5500.csv')
-yerr = pd.read_csv('c:/Users/Fyrel/Desktop/FYP/Data/Error of the binned A262.csv')
+df = pd.read_csv('Binning data A262 (1).csv')
+df2 = pd.read_csv('Galaxy within 4500-5500.csv')
+yerr = pd.read_csv('Error of the binned A262.csv')
 
 figs, axs = plt.subplots(1, 1,figsize=(10,7), tight_layout = True)
 
