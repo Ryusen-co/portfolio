@@ -1,7 +1,7 @@
 # add the following to _config.yml file
 title: Muhammad Hasif Adli Bin Salleh
 logo: assets/img/Headshot.png
-description: A young and passionate physics graduate with analytical skills eager to learn and apply knowledge in the data science fields.
+description: Physics graduate eager to learn and apply knowledge in the data science fields.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
