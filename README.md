@@ -1,4 +1,4 @@
-# Data Scientist
+# Physics Graduate
 #### Technical Skills: Python, Microsoft Word, Excel, Powerpoint, SQL
 
 ### Education
