@@ -1,5 +1,5 @@
 # Data Scientist
-##Technical Skills: Python, Microsoft Word, Excel, Powerpoint, SQL
+Technical Skills: Python, Microsoft Word, Excel, Powerpoint, SQL
 
 ### Education
 Bsc in Physics (Oct. 2020 - Feb 2024)
