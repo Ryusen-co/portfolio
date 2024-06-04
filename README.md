@@ -1,8 +1,8 @@
 # Data Scientist
-#### Technical Skills: Python, Microsoft Word, Excel, Powerpoint, SQL
+Technical Skills: Python, Microsoft Word, Excel, Powerpoint, SQL
 
 ### Education
-#### Bsc in Physics | Universiti Malaya (Feb 2024)
+Bsc in Physics | Universiti Malaya (Feb 2024)
 
 ### Project
 **Neutral Hydrogen in A262**
